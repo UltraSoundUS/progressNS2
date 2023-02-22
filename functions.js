@@ -40,6 +40,13 @@ const getResults = async url => {
 
 /**
  * 
+ * @param {string} title 
+ * @returns {number} 
+ */
+const getGenreIndex = title => genreValues.findIndex(x => x == genresGlobal[title]);
+
+/**
+ * 
  * @param {bool[]} levels 
  * @param {bool[]} genres 
  */
@@ -51,24 +58,37 @@ const setTable = (
   const main = document.getElementById('results');
   Array.from(main.children).forEach(e => e.remove());
 
-  for (let title in resultsGlobal) {
+  // const titles = Array.from(Object.keys(resultsGlobal))
+  //   .sort((x, y) => getGenreIndex(x) - getGenreIndex(y))
+  //   .sort((x, y) => songsGlobal[y] - songsGlobal[x]);
+  const titles = Array.from(Object.keys(resultsGlobal))
+    .sort((x, y) => getGenreIndex(x) - getGenreIndex(y));
+
+  const classNames = ['none', 'clear', 'fullcombo', 'donderfulcombo']
+  for (let title of titles) {
     if (!levels[songsGlobal[title] - 1]
-      || !genres[genreValues.findIndex(x => x == genresGlobal[title])]
+      || !genres[getGenreIndex(title)]
       || !conditions[resultsGlobal[title]]
     ) {
       continue;
     }
     const p = document.createElement('p');
     main.appendChild(p);
-    p.innerText = title;
+    const span = document.createElement('span');
+    p.appendChild(span);
+    span.innerText = title;
+    span.classList.add('condition-' + classNames[resultsGlobal[title]])
   }
 };
 
 
 const setTableWithOptions = () => {
-  const levels = Array.from(document.getElementById('checkboxes-level').querySelectorAll('input')).map(e => e.checked);
-  const genres = Array.from(document.getElementById('checkboxes-genre').querySelectorAll('input')).map(e => e.checked);
-  const conditions = Array.from(document.getElementById('checkboxes-condition').querySelectorAll('input')).map(e => e.checked);
+  const levels = Array.from(document.getElementById('checkboxes-level')
+    .querySelectorAll('input')).map(e => e.checked);
+  const genres = Array.from(document.getElementById('checkboxes-genre')
+    .querySelectorAll('input')).map(e => e.checked);
+  const conditions = Array.from(document.getElementById('checkboxes-condition')
+    .querySelectorAll('input')).map(e => e.checked);
   setTable(levels, genres, conditions);
 };
 
@@ -154,12 +174,12 @@ const initialize = async () => {
     return Object.fromEntries(songsArr);
   };
 
-  resultsGlobal = {...results1, ...results2};
-  songsGlobal = {...fn(songs1), ...fn(songs2)};
-  genresGlobal = {...gn(songs1), ...gn(songs2)};
+  resultsGlobal = { ...results1, ...results2 };
+  songsGlobal = { ...fn(songs1), ...fn(songs2) };
+  genresGlobal = { ...gn(songs1), ...gn(songs2) };
 
-  conditionValues = Array.from(new Set(Object.values(resultsGlobal))).sort((x, y) => x > y);
-  songValues = Array.from(new Set(Object.values(songsGlobal))).sort((x, y) => x > y);
+  conditionValues = Array.from(new Set(Object.values(resultsGlobal))).sort((x, y) => x - y);
+  songValues = Array.from(new Set(Object.values(songsGlobal))).sort((x, y) => x - y);
   genreValues = Array.from(new Set(Object.values(genresGlobal)));
 
   setTable();
