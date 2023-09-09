@@ -1,14 +1,14 @@
-夏祭り;3
+夏祭り;0
 Feel Special;0
 DDU-DU DDU-DU;0
 I LOVE...;0
-夜に駆ける;2
+夜に駆ける;0
 だから僕は音楽を辞めた;0
 だから僕は音楽を辞めた(裏);0
 マリーゴールド;0
 青と夏;0
 前前前世;0
-紅;1
+紅;0
 紅蓮華;0
 紅蓮華(裏);0
 廻廻奇譚;0
@@ -23,6 +23,7 @@ Butter-Fly;0
 ムーンライト伝説;0
 魔訶不思議アドベンチャー！;0
 となりのトトロ;0
+罪と罰 祈らざる者よ;0
 ロキ;0
 KING;0
 ヴィラン;0
@@ -57,7 +58,7 @@ Life Will Change;0
 MEGALOVANIA;0
 MEGALOVANIA(裏);0
 JOIN THE PAC -太鼓の達人 Ver.-;0
-塊オンザロック〜メインテーマ;0
+塊オンザロック～メインテーマ;0
 The Windmill Song;0
 ESCAPE FROM CRISIS;0
 ESCAPE FROM CRISIS(裏);0
@@ -75,7 +76,7 @@ Welcome to the Taiko Stadium!;0
 夢うつつカタルシス;0
 風魔モジュール6768;0
 風魔モジュール6768(裏);0
-1/2 〜inside me;0
+1/2 ～inside me;0
 Solitude Star;0
 今夜はホーミー;0
 1・2・さんしのでドンドカッカッ！;0

@@ -1,5 +1,29 @@
 [
     {
+        "title": "TT",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "130",
+        "easy": 3,
+        "normal": 5,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "bad guy",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "120-135",
+        "easy": 3,
+        "normal": 5,
+        "hard": 6,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "LAST CHRISTMAS",
         "subtitle": null,
         "genre": "ポップス",
@@ -30,8 +54,8 @@
         "bpm": "156",
         "easy": 3,
         "normal": 5,
-        "hard": 6,
-        "oni": 8,
+        "hard": 5,
+        "oni": 7,
         "ura": null,
         "purchasable": false
     },
@@ -45,7 +69,7 @@
         "hard": 5,
         "oni": 7,
         "ura": 10,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ねねねねねねねね!大爆走",
@@ -69,7 +93,7 @@
         "hard": 5,
         "oni": 7,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ほめのび",
@@ -93,7 +117,67 @@
         "hard": 4,
         "oni": 7,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
+    },
+    {
+        "title": "ちゅ、多様性。",
+        "subtitle": "TVアニメ「チェンソーマン」エンディング・テーマ",
+        "genre": "ポップス",
+        "bpm": "153",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "可愛くてごめん",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "160",
+        "easy": 2,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "Subtitle",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "65",
+        "easy": 2,
+        "normal": 3,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "スターマイン",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "132",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "CITRUS",
+        "subtitle": "ドラマ「極主夫道」より",
+        "genre": "ポップス",
+        "bpm": "82",
+        "easy": 2,
+        "normal": 3,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
     },
     {
         "title": "喝采",
@@ -115,6 +199,18 @@
         "easy": 2,
         "normal": 3,
         "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ダンスホール",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "110",
+        "easy": 2,
+        "normal": 3,
+        "hard": 6,
         "oni": 7,
         "ura": null,
         "purchasable": false
@@ -144,6 +240,18 @@
         "purchasable": false
     },
     {
+        "title": "Surges",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "137",
+        "easy": 3,
+        "normal": 4,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "フォニイ",
         "subtitle": "ツミキ feat. 音楽的同位体 可不(KAFU)",
         "genre": "ポップス",
@@ -153,6 +261,18 @@
         "hard": 5,
         "oni": 7,
         "ura": 9,
+        "purchasable": false
+    },
+    {
+        "title": "W/X/Y",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "71",
+        "easy": 3,
+        "normal": 3,
+        "hard": 4,
+        "oni": 7,
+        "ura": null,
         "purchasable": false
     },
     {
@@ -168,24 +288,24 @@
         "purchasable": false
     },
     {
+        "title": "うっせぇわ",
+        "subtitle": "Ado",
+        "genre": "ポップス",
+        "bpm": "178",
+        "easy": 2,
+        "normal": 2,
+        "hard": 3,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "シル・ヴ・プレジデント",
         "subtitle": "P丸様。",
         "genre": "ポップス",
         "bpm": "176",
         "easy": 3,
         "normal": 4,
-        "hard": 5,
-        "oni": 7,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "CITRUS",
-        "subtitle": null,
-        "genre": "ポップス",
-        "bpm": "82",
-        "easy": 2,
-        "normal": 3,
         "hard": 5,
         "oni": 7,
         "ura": null,
@@ -528,6 +648,18 @@
         "purchasable": false
     },
     {
+        "title": "君がくれた夏",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "85",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 6,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "海の声",
         "subtitle": "au「三太郎シリーズ」CMソング",
         "genre": "ポップス",
@@ -558,6 +690,42 @@
         "bpm": "122",
         "easy": 3,
         "normal": 4,
+        "hard": 6,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "さよならクロール",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "145",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 6,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "フライングゲット",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "131",
+        "easy": 2,
+        "normal": 3,
+        "hard": 5,
+        "oni": 5,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ポニーテールとシュシュ",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "80※-160",
+        "easy": 3,
+        "normal": 5,
         "hard": 6,
         "oni": 7,
         "ura": null,
@@ -600,6 +768,18 @@
         "purchasable": false
     },
     {
+        "title": "月と太陽",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "108",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "デジタルモグラ",
         "subtitle": null,
         "genre": "ポップス",
@@ -608,6 +788,18 @@
         "normal": 3,
         "hard": 4,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "1 2 3 ～恋がはじまる～",
+        "subtitle": "「カルピスウォーター」CMソング",
+        "genre": "ポップス",
+        "bpm": "159",
+        "easy": 3,
+        "normal": 4,
+        "hard": 4,
+        "oni": 6,
         "ura": null,
         "purchasable": false
     },
@@ -680,6 +872,18 @@
         "normal": 4,
         "hard": 4,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "マル・マル・モリ・モリ！",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "125",
+        "easy": 2,
+        "normal": 3,
+        "hard": 3,
+        "oni": 5,
         "ura": null,
         "purchasable": false
     },
@@ -840,6 +1044,18 @@
         "purchasable": false
     },
     {
+        "title": "マツケンサンバⅡ",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "127.15",
+        "easy": 5,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "LOVEマシーン",
         "subtitle": null,
         "genre": "ポップス",
@@ -848,6 +1064,30 @@
         "normal": 5,
         "hard": 5,
         "oni": 5,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "アポロ",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "170-190.1",
+        "easy": 2,
+        "normal": 4,
+        "hard": 4,
+        "oni": 2,
+        "ura": 8,
+        "purchasable": false
+    },
+    {
+        "title": "Timing ～タイミング～",
+        "subtitle": null,
+        "genre": "ポップス",
+        "bpm": "126",
+        "easy": 2,
+        "normal": 4,
+        "hard": 6,
+        "oni": 8,
         "ura": null,
         "purchasable": false
     },
@@ -927,7 +1167,7 @@
         "title": "リンダリンダ",
         "subtitle": null,
         "genre": "ポップス",
-        "bpm": "59-202※",
+        "bpm": "62-198※",
         "easy": 4,
         "normal": 6,
         "hard": 5,
@@ -960,7 +1200,7 @@
         "purchasable": false
     },
     {
-        "title": "真夜中のドア〜Stay with me",
+        "title": "真夜中のドア～Stay with me",
         "subtitle": null,
         "genre": "ポップス",
         "bpm": "108",
@@ -972,12 +1212,132 @@
         "purchasable": false
     },
     {
+        "title": "アイドル",
+        "subtitle": "TVアニメ『【推しの子】』より",
+        "genre": "アニメ",
+        "bpm": "166",
+        "easy": 3,
+        "normal": 4,
+        "hard": 4,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "第ゼロ感",
+        "subtitle": "Taiko Team cover ver. / 「THE FIRST SLAM DUNK」より",
+        "genre": "アニメ",
+        "bpm": "150",
+        "easy": 3,
+        "normal": 5,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "スカー",
+        "subtitle": null,
+        "genre": "アニメ",
+        "bpm": "193",
+        "easy": 3,
+        "normal": 5,
+        "hard": 5,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "少女S",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "136",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "アフターダーク",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "191",
+        "easy": 4,
+        "normal": 4,
+        "hard": 5,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ALONES",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "190※",
+        "easy": 3,
+        "normal": 4,
+        "hard": 6,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "TONIGHT,TONIGHT,",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "178※",
+        "easy": 3,
+        "normal": 5,
+        "hard": 8,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "一輪の花",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "195",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "D-tecnoLife",
+        "subtitle": "「BLEACH」より",
+        "genre": "アニメ",
+        "bpm": "168",
+        "easy": 4,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "SOUVENIR",
+        "subtitle": "BUMP OF CHICKEN TVアニメ『SPY×FAMILY』第2クールオープニング主題歌",
+        "genre": "アニメ",
+        "bpm": "158",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 6,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "ミックスナッツ",
         "subtitle": "アニメ「SPY×FAMILY」オープニング主題歌",
         "genre": "アニメ",
         "bpm": "150",
         "easy": 2,
-        "normal": 3,
+        "normal": 4,
         "hard": 5,
         "oni": 7,
         "ura": 9,
@@ -1041,11 +1401,11 @@
         "hard": 6,
         "oni": 8,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "新時代",
-        "subtitle": "「ONE PIECE FILM RED」より",
+        "subtitle": "「ウタの歌 ONE PIECE FILM RED」より",
         "genre": "アニメ",
         "bpm": "87-175※",
         "easy": 2,
@@ -1065,7 +1425,7 @@
         "hard": 2,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "怒りをくれよ",
@@ -1095,7 +1455,7 @@
         "title": "HANDS UP!",
         "subtitle": "「ワンピース」より",
         "genre": "アニメ",
-        "bpm": "130",
+        "bpm": "130※",
         "easy": 3,
         "normal": 5,
         "hard": 6,
@@ -1125,7 +1485,7 @@
         "hard": 5,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "Jungle P",
@@ -1149,7 +1509,7 @@
         "hard": 4,
         "oni": 5,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ココロのちず",
@@ -1161,7 +1521,7 @@
         "hard": 4,
         "oni": 5,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ウィーアー！",
@@ -1173,7 +1533,31 @@
         "hard": 5,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
+    },
+    {
+        "title": "STONE OCEAN",
+        "subtitle": "「ジョジョの奇妙な冒険 ストーンオーシャン」より",
+        "genre": "アニメ",
+        "bpm": "180",
+        "easy": 3,
+        "normal": 5,
+        "hard": 6,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ジョジョ～その血の運命～",
+        "subtitle": "「ジョジョの奇妙な冒険」より",
+        "genre": "アニメ",
+        "bpm": "146",
+        "easy": 3,
+        "normal": 5,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
     },
     {
         "title": "ウキウキオトッペ",
@@ -1224,6 +1608,18 @@
         "purchasable": false
     },
     {
+        "title": "ウンタカダンス",
+        "subtitle": "「映画ドラえもん 新・のび太の日本誕生」スペシャル応援ソング",
+        "genre": "アニメ",
+        "bpm": "147",
+        "easy": 2,
+        "normal": 2,
+        "hard": 4,
+        "oni": 6,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "360°",
         "subtitle": "「映画ドラえもん のび太の宇宙英雄記」より",
         "genre": "アニメ",
@@ -1257,7 +1653,7 @@
         "hard": 3,
         "oni": 3,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ユルユルでDE-O!",
@@ -1285,7 +1681,7 @@
     },
     {
         "title": "OLA!!",
-        "subtitle": "「映画クレヨンしんちゃん オラの引越し物語〜サボテン大襲撃〜」より",
+        "subtitle": "「映画クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～」より",
         "genre": "アニメ",
         "bpm": "115",
         "easy": 4,
@@ -1296,7 +1692,7 @@
         "purchasable": false
     },
     {
-        "title": "友よ 〜この先もずっと･･･",
+        "title": "友よ ～この先もずっと･･･",
         "subtitle": "「映画クレヨンしんちゃん 爆睡！ユメミーワールド大突撃」より",
         "genre": "アニメ",
         "bpm": "127",
@@ -1581,7 +1977,7 @@
         "hard": 3,
         "oni": 3,
         "ura": 8,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "超絶☆ダイナミック！",
@@ -1605,7 +2001,7 @@
         "hard": 4,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "CHA-LA HEAD-CHA-LA",
@@ -1617,7 +2013,7 @@
         "hard": 5,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "祝福",
@@ -1668,25 +2064,25 @@
         "purchasable": false
     },
     {
+        "title": "ignited -イグナイテッド-",
+        "subtitle": "「機動戦士ガンダムSEED DESTINY」より",
+        "genre": "アニメ",
+        "bpm": "155",
+        "easy": 4,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "哀戦士",
-        "subtitle": "劇場版「機動戦士ガンダムII 哀 戦士篇」より",
+        "subtitle": "劇場版「機動戦士ガンダムⅡ 哀 戦士篇」より",
         "genre": "アニメ",
         "bpm": "150※",
         "easy": 4,
         "normal": 5,
         "hard": 6,
-        "oni": 8,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "ラムのラブソング",
-        "subtitle": "「うる星やつら」より",
-        "genre": "アニメ",
-        "bpm": "180-183※",
-        "easy": 5,
-        "normal": 6,
-        "hard": 5,
         "oni": 8,
         "ura": null,
         "purchasable": false
@@ -1788,6 +2184,30 @@
         "purchasable": false
     },
     {
+        "title": "New Stranger",
+        "subtitle": "「ハイスコアガール」より",
+        "genre": "アニメ",
+        "bpm": "190",
+        "easy": 4,
+        "normal": 6,
+        "hard": 7,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "Winding Road",
+        "subtitle": "「ゴールデンカムイ」より",
+        "genre": "アニメ",
+        "bpm": "132",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "流星",
         "subtitle": "「ソードアート・オンライン オルタナティブ ガンゲイル・オンライン」より",
         "genre": "アニメ",
@@ -1856,6 +2276,18 @@
         "normal": 4,
         "hard": 5,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "風",
+        "subtitle": "「NARUTO-ナルト- 疾風伝」より",
+        "genre": "アニメ",
+        "bpm": "162",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 6,
         "ura": null,
         "purchasable": false
     },
@@ -1929,7 +2361,7 @@
         "hard": 5,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "Hero's Come Back!!",
@@ -2232,18 +2664,6 @@
         "purchasable": false
     },
     {
-        "title": "ジョジョ〜その血の運命〜",
-        "subtitle": "「ジョジョの奇妙な冒険」より",
-        "genre": "アニメ",
-        "bpm": "146",
-        "easy": 3,
-        "normal": 5,
-        "hard": 5,
-        "oni": 7,
-        "ura": null,
-        "purchasable": true
-    },
-    {
         "title": "V.I.P",
         "subtitle": "「マギ」より",
         "genre": "アニメ",
@@ -2316,78 +2736,6 @@
         "purchasable": false
     },
     {
-        "title": "少女S",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "136",
-        "easy": 3,
-        "normal": 4,
-        "hard": 5,
-        "oni": 7,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "アフターダーク",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "191",
-        "easy": 4,
-        "normal": 4,
-        "hard": 5,
-        "oni": 8,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "ALONES",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "190※",
-        "easy": 3,
-        "normal": 4,
-        "hard": 6,
-        "oni": 7,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "TONIGHT,TONIGHT,TONIGHT",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "178※",
-        "easy": 3,
-        "normal": 5,
-        "hard": 8,
-        "oni": 8,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "一輪の花",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "195",
-        "easy": 3,
-        "normal": 4,
-        "hard": 5,
-        "oni": 7,
-        "ura": null,
-        "purchasable": false
-    },
-    {
-        "title": "D-tecnoLife",
-        "subtitle": "「BLEACH」より",
-        "genre": "アニメ",
-        "bpm": "168",
-        "easy": 4,
-        "normal": 5,
-        "hard": 6,
-        "oni": 8,
-        "ura": null,
-        "purchasable": false
-    },
-    {
         "title": "嘘",
         "subtitle": "アニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」EDテーマ",
         "genre": "アニメ",
@@ -2409,7 +2757,7 @@
         "hard": 3,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "O2",
@@ -2520,6 +2868,18 @@
         "purchasable": false
     },
     {
+        "title": "ラムのラブソング",
+        "subtitle": "「うる星やつら」より",
+        "genre": "アニメ",
+        "bpm": "181※",
+        "easy": 5,
+        "normal": 6,
+        "hard": 5,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "宇宙戦艦ヤマト",
         "subtitle": null,
         "genre": "アニメ",
@@ -2601,7 +2961,7 @@
         "hard": 4,
         "oni": 7,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "崖の上のポニョ",
@@ -2613,7 +2973,7 @@
         "hard": 1,
         "oni": 2,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "いつも何度でも",
@@ -2637,7 +2997,7 @@
         "hard": 4,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "君をのせて",
@@ -2649,7 +3009,7 @@
         "hard": 4,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "風のとおり道",
@@ -2661,7 +3021,7 @@
         "hard": 4,
         "oni": 7,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "さんぽ",
@@ -2688,7 +3048,7 @@
         "purchasable": false
     },
     {
-        "title": "どこまでも〜How Far I'll Go〜",
+        "title": "どこまでも～How Far I'll Go～",
         "subtitle": "「モアナと伝説の海」より",
         "genre": "アニメ",
         "bpm": "84※",
@@ -2712,7 +3072,7 @@
         "purchasable": false
     },
     {
-        "title": "Let It Go〜ありのままで〜",
+        "title": "Let It Go～ありのままで～",
         "subtitle": "「アナと雪の女王」より",
         "genre": "アニメ",
         "bpm": "137",
@@ -2721,7 +3081,7 @@
         "hard": 2,
         "oni": 4,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "Let It Go",
@@ -2733,7 +3093,19 @@
         "hard": 2,
         "oni": 4,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
+    },
+    {
+        "title": "拝啓ドッペルゲンガー",
+        "subtitle": "kemu feat. 初音ミク",
+        "genre": "ボーカロイド™曲",
+        "bpm": "181",
+        "easy": 3,
+        "normal": 5,
+        "hard": 7,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
     },
     {
         "title": "神っぽいな",
@@ -2760,6 +3132,18 @@
         "purchasable": false
     },
     {
+        "title": "4+1のそれぞれの未来",
+        "subtitle": "太鼓 de タイムトラベル00's / cosMo＠暴走P feat. 初音ミク",
+        "genre": "ボーカロイド™曲",
+        "bpm": "255",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "ヴァンパイア",
         "subtitle": "DECO*27 feat. 初音ミク",
         "genre": "ボーカロイド™曲",
@@ -2781,7 +3165,7 @@
         "hard": 4,
         "oni": 6,
         "ura": 8,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ヒバナ",
@@ -2805,7 +3189,7 @@
         "hard": 7,
         "oni": 8,
         "ura": 9,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "エイリアンエイリアン",
@@ -2817,19 +3201,19 @@
         "hard": 6,
         "oni": 9,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ダンスロボットダンス",
         "subtitle": "ナユタン星人 feat. 初音ミク",
         "genre": "ボーカロイド™曲",
-        "bpm": "190※",
+        "bpm": "190",
         "easy": 3,
         "normal": 4,
         "hard": 4,
         "oni": 9,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "太陽系デスコ",
@@ -2841,7 +3225,7 @@
         "hard": 5,
         "oni": 8,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "Tell Your World",
@@ -2853,13 +3237,13 @@
         "hard": 5,
         "oni": 6,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ブリキノダンス",
         "subtitle": "日向電工 feat. 初音ミク",
         "genre": "ボーカロイド™曲",
-        "bpm": "165",
+        "bpm": "172",
         "easy": 3,
         "normal": 6,
         "hard": 7,
@@ -2877,6 +3261,18 @@
         "hard": 6,
         "oni": 7,
         "ura": 8,
+        "purchasable": false
+    },
+    {
+        "title": "初音ミクの消失‐劇場版‐",
+        "subtitle": "cosMo@暴走P feat. 初音ミク",
+        "genre": "ボーカロイド™曲",
+        "bpm": "200-240",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 9,
+        "ura": 10,
         "purchasable": false
     },
     {
@@ -2901,7 +3297,7 @@
         "hard": 6,
         "oni": 8,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "ワールドイズマイン",
@@ -2913,7 +3309,7 @@
         "hard": 6,
         "oni": 8,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "メルト",
@@ -2925,7 +3321,7 @@
         "hard": 5,
         "oni": 8,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "もしもし神様",
@@ -2972,6 +3368,18 @@
         "normal": 3,
         "hard": 5,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "酔いどれ知らず",
+        "subtitle": "Kanaria",
+        "genre": "ボーカロイド™曲",
+        "bpm": "115",
+        "easy": 3,
+        "normal": 3,
+        "hard": 5,
+        "oni": 8,
         "ura": null,
         "purchasable": false
     },
@@ -3024,6 +3432,18 @@
         "purchasable": false
     },
     {
+        "title": "グッバイ宣言",
+        "subtitle": "Chinozo feat. flower",
+        "genre": "ボーカロイド™曲",
+        "bpm": "170",
+        "easy": 3,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "ベノム(feat. flower)",
         "subtitle": "かいりきベア",
         "genre": "ボーカロイド™曲",
@@ -3048,14 +3468,14 @@
         "purchasable": false
     },
     {
-        "title": "Baby Shark（ベイビー・シャーク）",
+        "title": "ジャンボリミッキー！",
         "subtitle": null,
         "genre": "バラエティ",
-        "bpm": "111-139",
-        "easy": 1,
-        "normal": 1,
-        "hard": 3,
-        "oni": 4,
+        "bpm": "143",
+        "easy": 2,
+        "normal": 3,
+        "hard": 4,
+        "oni": 5,
         "ura": null,
         "purchasable": false
     },
@@ -3068,6 +3488,18 @@
         "normal": 5,
         "hard": 5,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "Baby Shark（ベイビー・シャーク）",
+        "subtitle": null,
+        "genre": "バラエティ",
+        "bpm": "111-139",
+        "easy": 1,
+        "normal": 1,
+        "hard": 3,
+        "oni": 4,
         "ura": null,
         "purchasable": false
     },
@@ -3132,6 +3564,18 @@
         "purchasable": false
     },
     {
+        "title": "SWITCH ON!",
+        "subtitle": "「仮面ライダーフォーゼ」より",
+        "genre": "バラエティ",
+        "bpm": "190",
+        "easy": 1,
+        "normal": 1,
+        "hard": 3,
+        "oni": 3,
+        "ura": 9,
+        "purchasable": false
+    },
+    {
         "title": "全力全開！ゼンカイジャー",
         "subtitle": "「機界戦隊ゼンカイジャー」より",
         "genre": "バラエティ",
@@ -3140,6 +3584,30 @@
         "normal": 2,
         "hard": 4,
         "oni": 6,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ドクターXのテーマ",
+        "subtitle": "ドラマ「ドクターX～外科医・大門未知子～」より",
+        "genre": "バラエティ",
+        "bpm": "104",
+        "easy": 3,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "世界ふしぎ発見！オープニングテーマ",
+        "subtitle": null,
+        "genre": "バラエティ",
+        "bpm": "128-152",
+        "easy": 3,
+        "normal": 4,
+        "hard": 4,
+        "oni": 7,
         "ura": null,
         "purchasable": false
     },
@@ -3156,14 +3624,14 @@
         "purchasable": false
     },
     {
-        "title": "ドクターXのテーマ",
-        "subtitle": "ドラマ「ドクターX〜外科医・大門未知子〜」より",
+        "title": "吉宗評判記 暴れん坊将軍 BGM",
+        "subtitle": null,
         "genre": "バラエティ",
-        "bpm": "104",
+        "bpm": "79-165※",
         "easy": 3,
-        "normal": 5,
+        "normal": 3,
         "hard": 6,
-        "oni": 8,
+        "oni": 7,
         "ura": null,
         "purchasable": false
     },
@@ -3216,7 +3684,7 @@
         "purchasable": false
     },
     {
-        "title": "ネクロファンタジア 〜 Arr.Demetori",
+        "title": "ネクロファンタジア ～ Arr.Demetori",
         "subtitle": "東方Projectアレンジ Demetori",
         "genre": "バラエティ",
         "bpm": "180",
@@ -3240,6 +3708,66 @@
         "purchasable": false
     },
     {
+        "title": "good night baby (feat. Moe Shop)",
+        "subtitle": "犬吠埼紫杏(CV:長谷川玲奈) 「電音部」より",
+        "genre": "バラエティ",
+        "bpm": "125",
+        "easy": 3,
+        "normal": 3,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "Crush (Prod. SHOW)",
+        "subtitle": "真新宿GR学園電音部 「電音部」より",
+        "genre": "バラエティ",
+        "bpm": "130",
+        "easy": 3,
+        "normal": 4,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "爆裂タウマゼイン (Prod. チバニャン)",
+        "subtitle": "帝音国際学院電音部 「電音部」より",
+        "genre": "バラエティ",
+        "bpm": "180",
+        "easy": 3,
+        "normal": 6,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "IAM (feat. Shogo, Tsubasa)",
+        "subtitle": "港白金女学院電音部 「電音部」より",
+        "genre": "バラエティ",
+        "bpm": "138",
+        "easy": 3,
+        "normal": 5,
+        "hard": 5,
+        "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "アキバ20XX",
+        "subtitle": "外神田文芸高校電音部 「電音部」より",
+        "genre": "バラエティ",
+        "bpm": "210",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "やわらか戦車",
         "subtitle": null,
         "genre": "バラエティ",
@@ -3249,6 +3777,18 @@
         "hard": 6,
         "oni": 6,
         "ura": 9,
+        "purchasable": false
+    },
+    {
+        "title": "村祭り",
+        "subtitle": null,
+        "genre": "クラシック",
+        "bpm": "88",
+        "easy": 1,
+        "normal": 3,
+        "hard": 4,
+        "oni": 4,
+        "ura": null,
         "purchasable": false
     },
     {
@@ -3361,7 +3901,7 @@
     },
     {
         "title": "亡き王女のためのパヴァーヌ",
-        "subtitle": "〜きみのこどう〜",
+        "subtitle": "～きみのこどう～",
         "genre": "クラシック",
         "bpm": "96-137※",
         "easy": 3,
@@ -3392,6 +3932,18 @@
         "normal": 5,
         "hard": 7,
         "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "クラポルポルスカ",
+        "subtitle": null,
+        "genre": "クラシック",
+        "bpm": "50-150",
+        "easy": 4,
+        "normal": 5,
+        "hard": 7,
+        "oni": 10,
         "ura": null,
         "purchasable": false
     },
@@ -3505,7 +4057,7 @@
     },
     {
         "title": "ラデツキー行進曲",
-        "subtitle": "J.シュトラウス(1世)",
+        "subtitle": "J.シュトラウス (1世)",
         "genre": "クラシック",
         "bpm": "120※",
         "easy": 5,
@@ -3553,7 +4105,7 @@
     },
     {
         "title": "まおぅ",
-        "subtitle": "feat. 結羽(プラムソニック)",
+        "subtitle": "feat. 結羽 (プラムソニック)",
         "genre": "クラシック",
         "bpm": "140",
         "easy": 3,
@@ -3594,6 +4146,18 @@
         "bpm": "85-196※",
         "easy": 5,
         "normal": 6,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "鬼走曲第24番",
+        "subtitle": null,
+        "genre": "クラシック",
+        "bpm": "126-335",
+        "easy": 5,
+        "normal": 7,
         "hard": 8,
         "oni": 10,
         "ura": null,
@@ -3672,6 +4236,18 @@
         "purchasable": false
     },
     {
+        "title": "GO ON YA WAY(feat. 超学生)",
+        "subtitle": "「グーニャモンスター」より",
+        "genre": "ゲームミュージック",
+        "bpm": "150",
+        "easy": 2,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "たのしい太鼓道場",
         "subtitle": null,
         "genre": "ゲームミュージック",
@@ -3692,6 +4268,18 @@
         "normal": 4,
         "hard": 6,
         "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "Back to Life",
+        "subtitle": "平原綾香 「テイルズ オブ ザ レイズ」より",
+        "genre": "ゲームミュージック",
+        "bpm": "105※",
+        "easy": 3,
+        "normal": 3,
+        "hard": 4,
+        "oni": 6,
         "ura": null,
         "purchasable": false
     },
@@ -3732,6 +4320,18 @@
         "purchasable": false
     },
     {
+        "title": "THE IDOLM@STER",
+        "subtitle": "「アイドルマスター」より",
+        "genre": "ゲームミュージック",
+        "bpm": "165",
+        "easy": 3,
+        "normal": 4,
+        "hard": 4,
+        "oni": 8,
+        "ura": 8,
+        "purchasable": false
+    },
+    {
         "title": "Highschool love!",
         "subtitle": "「鉄拳タッグトーナメント2 Wii U EDITION」より",
         "genre": "ゲームミュージック",
@@ -3756,6 +4356,18 @@
         "purchasable": false
     },
     {
+        "title": "AWAKE!! ～マッスル目覚めのテーマ～",
+        "subtitle": "feat. 蟹プリンス 「マッスル行進曲」より",
+        "genre": "ゲームミュージック",
+        "bpm": "182",
+        "easy": 3,
+        "normal": 4,
+        "hard": 4,
+        "oni": 7,
+        "ura": 10,
+        "purchasable": false
+    },
+    {
         "title": "Diver",
         "subtitle": "「トレジャーガウスト ガウストダイバー」より",
         "genre": "ゲームミュージック",
@@ -3776,6 +4388,18 @@
         "normal": 3,
         "hard": 5,
         "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "RUN PAC-MAN RUN!",
+        "subtitle": "「リッジレーサー6」より",
+        "genre": "ゲームミュージック",
+        "bpm": "117-155",
+        "easy": 4,
+        "normal": 5,
+        "hard": 6,
+        "oni": 10,
         "ura": null,
         "purchasable": false
     },
@@ -3805,7 +4429,7 @@
     },
     {
         "title": "Brave Sword, Braver Soul",
-        "subtitle": "「ソウルキャリバーII」より",
+        "subtitle": "「ソウルキャリバーⅡ」より",
         "genre": "ゲームミュージック",
         "bpm": "150※",
         "easy": 3,
@@ -3824,6 +4448,30 @@
         "normal": 4,
         "hard": 3,
         "oni": 7,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "テクノヴェルクメドレー",
+        "subtitle": null,
+        "genre": "ゲームミュージック",
+        "bpm": "95.82-142",
+        "easy": 4,
+        "normal": 5,
+        "hard": 6,
+        "oni": 9,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ＴＤ - 28619029byte remix -",
+        "subtitle": "「テクノドライブ」より",
+        "genre": "ゲームミュージック",
+        "bpm": "150.11",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 9,
         "ura": null,
         "purchasable": false
     },
@@ -3864,7 +4512,7 @@
         "purchasable": false
     },
     {
-        "title": "名乗り(天上)",
+        "title": "名乗り（天上）",
         "subtitle": "「未来忍者」より",
         "genre": "ゲームミュージック",
         "bpm": "98-158※",
@@ -3885,6 +4533,18 @@
         "hard": 8,
         "oni": 7,
         "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "妖怪道中記音頭",
+        "subtitle": null,
+        "genre": "ゲームミュージック",
+        "bpm": "135",
+        "easy": 4,
+        "normal": 4,
+        "hard": 3,
+        "oni": 6,
+        "ura": 9,
         "purchasable": false
     },
     {
@@ -3921,6 +4581,18 @@
         "hard": 7,
         "oni": 8,
         "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ゼビウス体操",
+        "subtitle": null,
+        "genre": "ゲームミュージック",
+        "bpm": "130.01※",
+        "easy": 4,
+        "normal": 5,
+        "hard": 6,
+        "oni": 7,
+        "ura": 9,
         "purchasable": false
     },
     {
@@ -4093,7 +4765,7 @@
     },
     {
         "title": "くもまでとどけ！",
-        "subtitle": "「太鼓の達人 ぽ〜たぶる2」テーマソング",
+        "subtitle": "「太鼓の達人 ぽ～たぶる2」テーマソング",
         "genre": "ナムコオリジナル",
         "bpm": "110",
         "easy": 3,
@@ -4143,7 +4815,7 @@
         "title": "おはよう！太鼓サマー",
         "subtitle": "「太鼓の達人 あつまれ！祭りだ!!四代目」テーマソング",
         "genre": "ナムコオリジナル",
-        "bpm": "122",
+        "bpm": "122※",
         "easy": 4,
         "normal": 4,
         "hard": 5,
@@ -4212,6 +4884,42 @@
         "purchasable": false
     },
     {
+        "title": "ミンナノカキゴオリ",
+        "subtitle": "ボンジュール鈴木 feat. 塚越雄一朗(NanosizeMir) ＆ 祇羽",
+        "genre": "ナムコオリジナル",
+        "bpm": "143",
+        "easy": 4,
+        "normal": 6,
+        "hard": 7,
+        "oni": 9,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "TAIKO-TONGUE-TWISTER",
+        "subtitle": "Cory Tarrow(BNSI) feat. M.Polak, Avigail D., L.Munoz and Bryan D.",
+        "genre": "ナムコオリジナル",
+        "bpm": "170",
+        "easy": 5,
+        "normal": 6,
+        "hard": 7,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "スキに理由はいらないじゃん！",
+        "subtitle": "オミコシスターズ feat. Ponchi♪ / WADIVE RECORD",
+        "genre": "ナムコオリジナル",
+        "bpm": "165",
+        "easy": 3,
+        "normal": 6,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "平等院鳳凰ドン vs 鳥獣戯カッ",
         "subtitle": "太鼓 de タイムトラベル平安 / コバヤシユウヤ(IOSYS) feat. miko",
         "genre": "ナムコオリジナル",
@@ -4237,7 +4945,7 @@
     },
     {
         "title": "大冒険タツドン",
-        "subtitle": "太鼓 de タイムトラベル60's / 田島勝朗 feat. シックスティーズ・クワイヤーズ",
+        "subtitle": "太鼓 de タイムトラベル60's / 田島勝朗(BNSI) feat. シックスティーズ・クワイヤーズ",
         "genre": "ナムコオリジナル",
         "bpm": "67.5-438.75",
         "easy": 2,
@@ -4249,7 +4957,7 @@
     },
     {
         "title": "恋はドント・ダウト",
-        "subtitle": "太鼓 de タイムトラベル70's / Kawagen Kollagen with yuzuki",
+        "subtitle": "太鼓 de タイムトラベル70's / Kawagen Kollagen(BNSI) with yuzuki",
         "genre": "ナムコオリジナル",
         "bpm": "180",
         "easy": 4,
@@ -4285,7 +4993,7 @@
     },
     {
         "title": "パラレルロリポップ",
-        "subtitle": "太鼓 de タイムトラベル10's / Sho Okada",
+        "subtitle": "太鼓 de タイムトラベル10's / Sho Okada(BNSI)",
         "genre": "ナムコオリジナル",
         "bpm": "160",
         "easy": 4,
@@ -4320,13 +5028,25 @@
         "purchasable": false
     },
     {
-        "title": "めためた☆ゆにば〜すっ！",
+        "title": "めためた☆ゆにば～すっ！",
         "subtitle": "kyo(BNSI) × Mitsu(TRYTONELABO) feat. 本木咲黒",
         "genre": "ナムコオリジナル",
         "bpm": "180-240",
         "easy": 4,
         "normal": 5,
         "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "女神な世界 Ⅱ",
+        "subtitle": "翡翠＆祇羽 feat. 葉月ゆら",
+        "genre": "ナムコオリジナル",
+        "bpm": "61-252",
+        "easy": 4,
+        "normal": 6,
+        "hard": 7,
         "oni": 8,
         "ura": null,
         "purchasable": false
@@ -4404,6 +5124,30 @@
         "purchasable": false
     },
     {
+        "title": "魑魅魍魎",
+        "subtitle": "Laur",
+        "genre": "ナムコオリジナル",
+        "bpm": "200-260",
+        "easy": 4,
+        "normal": 6,
+        "hard": 7,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "憎悪と醜悪の花束",
+        "subtitle": "t+pazolite",
+        "genre": "ナムコオリジナル",
+        "bpm": "18.44-331",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 10,
+        "ura": 10,
+        "purchasable": false
+    },
+    {
         "title": "鼓舞曲「閻魔」",
         "subtitle": "山本真央樹",
         "genre": "ナムコオリジナル",
@@ -4453,7 +5197,7 @@
     },
     {
         "title": "Taiko Session",
-        "subtitle": "〜Live Version〜",
+        "subtitle": "～Live Version～",
         "genre": "ナムコオリジナル",
         "bpm": "140",
         "easy": 3,
@@ -4464,7 +5208,7 @@
         "purchasable": false
     },
     {
-        "title": "142トキノワタリドリ",
+        "title": "１４２トキノワタリドリ",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "9.64-212※",
@@ -4476,7 +5220,7 @@
         "purchasable": false
     },
     {
-        "title": "241ディープラーニング",
+        "title": "２４１ディープラーニング",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "105",
@@ -4728,6 +5472,18 @@
         "purchasable": false
     },
     {
+        "title": "Stick Trick ShowTime!!",
+        "subtitle": "みそみぃる",
+        "genre": "ナムコオリジナル",
+        "bpm": "173",
+        "easy": 5,
+        "normal": 6,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "いっそこのままで",
         "subtitle": "ミフメイ(BNSI) feat. 相沢",
         "genre": "ナムコオリジナル",
@@ -4748,6 +5504,18 @@
         "normal": 6,
         "hard": 7,
         "oni": 9,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "ペットショップ大戦",
+        "subtitle": "chacol feat. Focco",
+        "genre": "ナムコオリジナル",
+        "bpm": "172",
+        "easy": 4,
+        "normal": 5,
+        "hard": 7,
+        "oni": 10,
         "ura": null,
         "purchasable": false
     },
@@ -4849,7 +5617,7 @@
     },
     {
         "title": "ブルちゃんのおや2",
-        "subtitle": "「腹ペコジャーニー第二章〜ブルちゃんのおや2〜もっと食べたい1」より (クラシック風)",
+        "subtitle": "「腹ペコジャーニー第二章～ブルちゃんのおや2～もっと食べたい1」より (クラシック風)",
         "genre": "ナムコオリジナル",
         "bpm": "154",
         "easy": 4,
@@ -4908,6 +5676,18 @@
         "purchasable": false
     },
     {
+        "title": "YOAKE",
+        "subtitle": "Capchii feat. Uzumaki",
+        "genre": "ナムコオリジナル",
+        "bpm": "202",
+        "easy": 4,
+        "normal": 7,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "天泣の律",
         "subtitle": "Capchii",
         "genre": "ナムコオリジナル",
@@ -4941,7 +5721,7 @@
         "hard": 6,
         "oni": 9,
         "ura": null,
-        "purchasable": true
+        "purchasable": false
     },
     {
         "title": "気焔万丈神楽",
@@ -5125,7 +5905,7 @@
     },
     {
         "title": "ひよこ鑑定士さん",
-        "subtitle": "立秋 feat.ちょこ",
+        "subtitle": "立秋 feat. ちょこ",
         "genre": "ナムコオリジナル",
         "bpm": "17.81-360",
         "easy": 4,
@@ -5137,7 +5917,7 @@
     },
     {
         "title": "まるくてはやくてすさまじいリズム",
-        "subtitle": "立秋 feat.ちょこ",
+        "subtitle": "立秋 feat. ちょこ",
         "genre": "ナムコオリジナル",
         "bpm": "192-248",
         "easy": 5,
@@ -5149,7 +5929,7 @@
     },
     {
         "title": "にゃーにゃーにゃー",
-        "subtitle": "立秋 feat.ちょこ",
+        "subtitle": "立秋 feat. ちょこ",
         "genre": "ナムコオリジナル",
         "bpm": "222",
         "easy": 4,
@@ -5173,7 +5953,7 @@
     },
     {
         "title": "シャイニング☆アブラカタブラ",
-        "subtitle": "〜阿羅仁＆マジカルランプ姫〜",
+        "subtitle": "～阿羅仁＆マジカルランプ姫～",
         "genre": "ナムコオリジナル",
         "bpm": "149",
         "easy": 3,
@@ -5460,7 +6240,7 @@
         "purchasable": false
     },
     {
-        "title": "女帝 〜インバラトゥーラ〜",
+        "title": "女帝 ～インバラトゥーラ～",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "204.5-290",
@@ -5480,6 +6260,18 @@
         "normal": 6,
         "hard": 7,
         "oni": 9,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "東京ソーダ 8Bit Edit",
+        "subtitle": "ヒゲドライVAN",
+        "genre": "ナムコオリジナル",
+        "bpm": "175※",
+        "easy": 4,
+        "normal": 5,
+        "hard": 7,
+        "oni": 8,
         "ura": null,
         "purchasable": false
     },
@@ -5676,8 +6468,20 @@
         "purchasable": false
     },
     {
+        "title": "ほうかご☆マジシャン",
+        "subtitle": "まりんべーす",
+        "genre": "ナムコオリジナル",
+        "bpm": "160",
+        "easy": 4,
+        "normal": 6,
+        "hard": 6,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
         "title": "合唱スタボーフェ！",
-        "subtitle": "with たま☆たい feat.団地ノ宮",
+        "subtitle": "with たま☆たい feat. 団地ノ宮",
         "genre": "ナムコオリジナル",
         "bpm": "156",
         "easy": 4,
@@ -5756,6 +6560,18 @@
         "normal": 6,
         "hard": 8,
         "oni": 9,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "時空町３丁目",
+        "subtitle": "きゃんちょこ",
+        "genre": "ナムコオリジナル",
+        "bpm": "47.5-190",
+        "easy": 4,
+        "normal": 5,
+        "hard": 6,
+        "oni": 8,
         "ura": null,
         "purchasable": false
     },
@@ -5929,11 +6745,23 @@
     },
     {
         "title": "Dream Tide",
-        "subtitle": "−夢の潮流−",
+        "subtitle": "－夢の潮流－",
         "genre": "ナムコオリジナル",
         "bpm": "141",
         "easy": 3,
         "normal": 5,
+        "hard": 7,
+        "oni": 8,
+        "ura": null,
+        "purchasable": false
+    },
+    {
+        "title": "豊穣弥生",
+        "subtitle": null,
+        "genre": "ナムコオリジナル",
+        "bpm": "126※",
+        "easy": 4,
+        "normal": 6,
         "hard": 7,
         "oni": 8,
         "ura": null,
@@ -6108,7 +6936,7 @@
         "purchasable": false
     },
     {
-        "title": "MATSURI D/A",
+        "title": "MATSURI D／A",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "130",
@@ -6197,7 +7025,7 @@
         "genre": "ナムコオリジナル",
         "bpm": "185",
         "easy": 4,
-        "normal": 4,
+        "normal": 5,
         "hard": 6,
         "oni": 8,
         "ura": null,
@@ -6289,7 +7117,7 @@
     },
     {
         "title": "スポーツダイジェスドン",
-        "subtitle": "〜Fill in The Sky〜",
+        "subtitle": "～Fill in The Sky～",
         "genre": "ナムコオリジナル",
         "bpm": "130",
         "easy": 4,
@@ -6840,7 +7668,7 @@
         "purchasable": false
     },
     {
-        "title": "SORA-I アースライズ",
+        "title": "SORA-Ⅰ アースライズ",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "134",
@@ -6852,7 +7680,7 @@
         "purchasable": false
     },
     {
-        "title": "SORA-II グリーゼ581",
+        "title": "SORA-Ⅱ グリーゼ581",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "144",
@@ -6864,7 +7692,7 @@
         "purchasable": false
     },
     {
-        "title": "SORA-V コズミックバード",
+        "title": "SORA-Ⅴ コズミックバード",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "135※",
@@ -6876,7 +7704,7 @@
         "purchasable": false
     },
     {
-        "title": "SORA-VI 火ノ鳥",
+        "title": "SORA-Ⅵ 火ノ鳥",
         "subtitle": null,
         "genre": "ナムコオリジナル",
         "bpm": "169※",
@@ -6889,7 +7717,7 @@
     },
     {
         "title": "季曲",
-        "subtitle": "〜Seasons of Asia〜",
+        "subtitle": "～Seasons of Asia～",
         "genre": "ナムコオリジナル",
         "bpm": "150",
         "easy": 3,
@@ -6901,7 +7729,7 @@
     },
     {
         "title": "蓄勢",
-        "subtitle": "〜GEAR UP〜",
+        "subtitle": "～GEAR UP～",
         "genre": "ナムコオリジナル",
         "bpm": "146",
         "easy": 3,
@@ -6913,7 +7741,7 @@
     },
     {
         "title": "蛻変",
-        "subtitle": "〜transformation〜",
+        "subtitle": "～transformation～",
         "genre": "ナムコオリジナル",
         "bpm": "120",
         "easy": 3,
@@ -6925,7 +7753,7 @@
     },
     {
         "title": "春遊",
-        "subtitle": "〜happy excursion〜",
+        "subtitle": "～happy excursion～",
         "genre": "ナムコオリジナル",
         "bpm": "140",
         "easy": 4,
@@ -6937,7 +7765,7 @@
     },
     {
         "title": "綻放",
-        "subtitle": "〜Blooming〜",
+        "subtitle": "～Blooming～",
         "genre": "ナムコオリジナル",
         "bpm": "172※",
         "easy": 3,
@@ -6949,7 +7777,7 @@
     },
     {
         "title": "花漾",
-        "subtitle": "〜Flourishing Blossoms〜",
+        "subtitle": "～Flourishing Blossoms～",
         "genre": "ナムコオリジナル",
         "bpm": "140",
         "easy": 3,
@@ -6961,7 +7789,7 @@
     },
     {
         "title": "蝶戀",
-        "subtitle": "〜Obsession〜",
+        "subtitle": "～Obsession～",
         "genre": "ナムコオリジナル",
         "bpm": "116",
         "easy": 3,
@@ -7092,7 +7920,7 @@
         "purchasable": false
     },
     {
-        "title": "冬竜 〜Toryu〜",
+        "title": "冬竜 ～Toryu～",
         "subtitle": "あず♪",
         "genre": "ナムコオリジナル",
         "bpm": "110",
@@ -7104,7 +7932,7 @@
         "purchasable": false
     },
     {
-        "title": "夏竜 〜Karyu〜",
+        "title": "夏竜 ～Karyu～",
         "subtitle": "あず♪",
         "genre": "ナムコオリジナル",
         "bpm": "136",
@@ -7116,7 +7944,7 @@
         "purchasable": false
     },
     {
-        "title": "氷竜 〜Kooryu〜",
+        "title": "氷竜 ～Kooryu～",
         "subtitle": "あず♪",
         "genre": "ナムコオリジナル",
         "bpm": "194-273",
@@ -7281,6 +8109,18 @@
         "hard": 6,
         "oni": 9,
         "ura": 10,
+        "purchasable": false
+    },
+    {
+        "title": "アムピト♢リーテー",
+        "subtitle": "かねこちはる",
+        "genre": "ナムコオリジナル",
+        "bpm": "110※-220",
+        "easy": 5,
+        "normal": 7,
+        "hard": 8,
+        "oni": 10,
+        "ura": null,
         "purchasable": false
     },
     {
