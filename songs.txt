@@ -74,7 +74,7 @@ Welcome to the Taiko Stadium!;0
 雲の彼方の大地の風;2
 河童の皿はこんなにも;1
 夢うつつカタルシス;1
-風魔モジュール6768;1
+風魔モジュール6768;2
 風魔モジュール6768(裏);0
 1/2 ～inside me;1
 Solitude Star;1
@@ -92,7 +92,7 @@ wonderful ROUTINE;1
 零の交響曲;1
 零の交響曲(裏);0
 Fly again!;2
-限界クリエイター応援歌;1
+限界クリエイター応援歌;2
 Freeway3234;2
 愛なんだぜ;2
 TOKIMEKI♡ですとろいやー！！;1
